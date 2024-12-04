@@ -1,2 +1,16 @@
-# Project-Bike-Sharing
-Proyek analisis data bike sharing dicoding
+# Bike Sharing Project
+
+## Setup Environment - Anaconda
+```
+
+```
+
+## Setup Environment - Shell/Terminal
+```
+
+```
+
+## Run steamlit app
+```
+
+```
