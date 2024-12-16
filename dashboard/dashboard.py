@@ -62,7 +62,7 @@ def create_time_2012_df():
     return time_2012_totals
 
 #Membaca File CSV
-all_df = pd.read_csv("main_data.csv")
+all_df = pd.read_csv("dashboard/main_data.csv")
 
 #MEMBUAT DASHBOARD
 all_df['year'] = all_df['year'].astype(str)
