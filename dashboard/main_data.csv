@@ -1,0 +1,41 @@
+yr,category,weathersit,casual,registered,cnt,type,year
+2011,spring,Sunny Cloudy,16540.0,82995.0,99535,season,2011
+2011,spring,Cloudy Mist,4805.0,44531.0,49336,season,2011
+2011,spring,Light Rain or Snow,80.0,1049.0,1129,season,2011
+2011,summer,Sunny Cloudy,50941.0,169382.0,220323,season,2011
+2011,summer,Cloudy Mist,26323.0,98190.0,124513,season,2011
+2011,summer,Light Rain or Snow,300.0,2180.0,2480,season,2011
+2011,fall,Sunny Cloudy,71488.0,237662.0,309150,season,2011
+2011,fall,Cloudy Mist,23487.0,80465.0,103952,season,2011
+2011,fall,Light Rain or Snow,475.0,6073.0,6548,season,2011
+2011,winter,Sunny Cloudy,38303.0,167756.0,206059,season,2011
+2011,winter,Cloudy Mist,13372.0,91751.0,105123,season,2011
+2011,winter,Light Rain or Snow,1138.0,13817.0,14955,season,2011
+2012,spring,Sunny Cloudy,25022.0,187479.0,212501,season,2012
+2012,spring,Cloudy Mist,13974.0,92263.0,106237,season,2012
+2012,spring,Light Rain or Snow,201.0,2409.0,2610,season,2012
+2012,summer,Sunny Cloudy,95447.0,311216.0,406663,season,2012
+2012,summer,Cloudy Mist,30391.0,133192.0,163583,season,2012
+2012,summer,Light Rain or Snow,120.0,907.0,1027,season,2012
+2012,fall,Sunny Cloudy,96457.0,393836.0,490293,season,2012
+2012,fall,Cloudy Mist,32920.0,113807.0,146727,season,2012
+2012,fall,Light Rain or Snow,1264.0,3195.0,4459,season,2012
+2012,winter,Sunny Cloudy,52148.0,261280.0,313428,season,2012
+2012,winter,Cloudy Mist,24504.0,172883.0,197387,season,2012
+2012,winter,Light Rain or Snow,317.0,4344.0,4661,season,2012
+2011,Sunny Cloudy,,,,835067,weather,2011
+2011,Cloudy Mist,,,,382924,weather,2011
+2011,Light Rain or Snow,,,,25112,weather,2011
+2012,Sunny Cloudy,,,,1422885,weather,2012
+2012,Cloudy Mist,,,,613934,weather,2012
+2012,Light Rain or Snow,,,,12757,weather,2012
+2011,Evening,,,,465311,time,2011
+2011,Night,,,,260288,time,2011
+2011,Afternoon,,,,242646,time,2011
+2011,Morning,,,,237841,time,2011
+2011,Late Night,,,,37017,time,2011
+2012,Evening,,,,767870,time,2012
+2012,Night,,,,416049,time,2012
+2012,Morning,,,,406162,time,2012
+2012,Afternoon,,,,404264,time,2012
+2012,Late Night,,,,55231,time,2012
