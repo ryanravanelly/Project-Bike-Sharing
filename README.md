@@ -1,4 +1,4 @@
-# Bike Sharing Project
+# Bike Sharing Project 🚲
 
 ## Setup Environment - Anaconda
 ```
