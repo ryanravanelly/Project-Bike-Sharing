@@ -9,8 +9,8 @@ pip install -r requirements.txt
 
 ## Setup Environment - Shell/Terminal
 ```
-mkdir bike_sharing_project
-cd bike_sharing_project
+mkdir Project-Bike-Sharing
+cd Project-Bike-Sharing
 pipenv install
 pipenv shell
 pip install -r requirements.txt
